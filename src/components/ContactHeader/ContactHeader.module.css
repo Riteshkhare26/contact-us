@@ -1,0 +1,15 @@
+.contact_section h1{
+    font-size: 50px;
+    font-weight: 800;
+    padding-left: 250px;
+}
+.contact_section p{
+    /* font-size: 48px; */
+    font-weight: 500;
+    padding-left: 250px;
+    padding-right: 250px;
+}
+.contact_section{
+ min-width: 1000px;
+ margin: auto;
+}
